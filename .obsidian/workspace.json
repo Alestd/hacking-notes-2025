@@ -11,14 +11,12 @@
             "id": "e7b46566c2233606",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "PicoCTF/General Skills/01-Lets Warm Up.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250217122357.png"
               },
-              "icon": "lucide-file",
-              "title": "01-Lets Warm Up"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250217122357"
             }
           }
         ]
@@ -170,9 +168,37 @@
   },
   "active": "e7b46566c2233606",
   "lastOpenFiles": [
-    "README.md",
-    "PicoCTF/General Skills/01-Lets Warm Up.md",
-    "PicoCTF/General Skills",
+    "PicoCTF/Tarea 1 - General Skills/010-ASCII Numbers.md",
+    "PicoCTF/Tarea 1 - General Skills/09-binhexa.md",
+    "PicoCTF/Tarea 1 - General Skills/08-binary search.md",
+    "PicoCTF/Tarea 1 - General Skills/07-collaborative development.md",
+    "PicoCTF/Tarea 1 - General Skills/06-blame game.md",
+    "PicoCTF/Tarea 1 - General Skills/05-time machine.md",
+    "PicoCTF/Actividad 6 - General Skills 3/07-PW Crack 1.md",
+    "PicoCTF/Actividad 6 - General Skills 3/03-Codebook.md",
+    "PicoCTF/Actividad 4 - General Skills 1/04-First Grep.md",
+    "PicoCTF/Actividad 4 - General Skills 1/03-Bases.md",
+    "PicoCTF/Actividad 4 - General Skills 1/01-Lets Warm Up.md",
+    "PicoCTF/Tarea 1 - General Skills/04-Commitment Issues.md",
+    "PicoCTF/Tarea 1 - General Skills/03-special.md",
+    "PicoCTF/Tarea 1 - General Skills/02.-chrono.md",
+    "PicoCTF/Tarea 1 - General Skills/01-permissions.md",
+    "PicoCTF/Actividad 6 - General Skills 3/010-Serpentine.md",
+    "PicoCTF/Actividad 6 - General Skills 3/09-PW Crack 3.md",
+    "PicoCTF/Actividad 6 - General Skills 3/08-PW Crack 2.md",
+    "PicoCTF/Actividad 6 - General Skills 3/06-fixme2.py.md",
+    "PicoCTF/Actividad 6 - General Skills 3/01-Super SSH.md",
+    "PicoCTF/Actividad 6 - General Skills 3/02-runme.py.md",
+    "PicoCTF/Actividad 6 - General Skills 3/05-fixme1.py.md",
+    "PicoCTF/Actividad 6 - General Skills 3/04-convertme.py.md",
+    "PicoCTF/Actividad 4 - General Skills 1/06-what's a net cat.md",
+    "PicoCTF/Actividad 4 - General Skills 1/05-Obedient Cat.md",
+    "PicoCTF/Actividad 4 - General Skills 1/010-Warmed Up.md",
+    "PicoCTF/Tarea 1 - General Skills",
+    "PicoCTF/Actividad 6 - General Skills 3",
+    "Pasted image 20250217122357.png",
+    "PicoCTF/Actividad 5 - General Skills 2",
+    "PicoCTF/Actividad 4 - General Skills 1",
     "PicoCTF",
     "README",
     "Sin nombre 1"
