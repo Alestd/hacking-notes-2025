@@ -6,7 +6,7 @@ Can you break into this super secure portal? `https://jupiter.challenges.picoct
 
 What is obfuscation?
 
-
+# Solución  
 
 ```
 
